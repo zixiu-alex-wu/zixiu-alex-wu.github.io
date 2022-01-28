@@ -11,9 +11,10 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Mathetmatics and Computer Science, Philips Research | University of Cagliari, 2020 - 2023 (expected).
+* M.S. in Advanced Computing, Imperial College London, 2018 - 2019. Degree: Distinction
+* B.S. in Computer Science, University of Birmingham, 2016 - 2018. Degree: First Class with Honours
+* B.Eng. in Software Engineering, Sun Yat-Sen University, 2014 - 2018
 
 Work experience
 ======
