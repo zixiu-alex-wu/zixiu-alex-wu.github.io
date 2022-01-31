@@ -53,8 +53,8 @@
     {% endif %}
 
     {% if post.citation and post.paperurl and post.paperurltext %}
-    <p>{{ post.citation }} &#91;<a href="{{ post.paperurl }}" target="_blank">{{ post.paperurltext }}</a>|<a
-        href="{{ post.bibtex }}" rel="permalink" target="_blank">bibtex</a>&#93;</p>
+    <p>{{ post.citation }} &#91;<a href="{{ post.paperurl }}">{{ post.paperurltext }}</a>|<a
+        href="{{ post.bibtex }}" rel="permalink">bibtex</a>&#93;</p>
     {% elsif post.citation and post.paperurl %}
     <p>{{ post.citation }} &#91;Link to paper <a href=" {{ post.paperurl }} ">here</a>|<a
         href="{{ post.bibtex }}" rel="permalink">bibtex</a>&#93;</p>
