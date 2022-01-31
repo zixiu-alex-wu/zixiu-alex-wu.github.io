@@ -9,5 +9,3 @@ citation: '<b>Zixiu Wu</b>. Probing the Role of Video Context in Multimodal Mach
 ---
 
 <a href='https://www.imperial.ac.uk/media/imperial-college/faculty-of-engineering/computing/public/1819-pg-projects/Probing-the-Role-of-Video-Context-in-Multimodal-Machine-Translation-with-Source-Corruption.pdf'>Download paper here</a>
-
-Recommended citation: <b>Zixiu Wu</b>. Probing the Role of Video Context in Multimodal Machine Translation with Source Corruption. In <i>Imperial College London (Master's Thesis)</i>

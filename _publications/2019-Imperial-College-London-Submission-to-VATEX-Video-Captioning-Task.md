@@ -9,5 +9,3 @@ citation: 'Ozan Caglayan, <b>Zixiu Wu</b>, Pranava Madhyastha, Josiah Wang, Luci
 ---
 
 <a href='https://arxiv.org/pdf/1910.07482.pdf'>Download paper here</a>
-
-Recommended citation: Ozan Caglayan, <b>Zixiu Wu</b>, Pranava Madhyastha, Josiah Wang, Lucia Specia. Imperial College London Submission to VATEX Video Captioning Task. In <i>arXiv</i>

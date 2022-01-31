@@ -9,5 +9,3 @@ citation: ' <b>Zixiu Wu</b>, Rim Helaoui, Vivek Kumar, Diego Reforgiato Recupero
 ---
 
 <a href='https://dl.acm.org/doi/pdf/10.1145/3395035.3425228'>Download paper here</a>
-
-Recommended citation:  <b>Zixiu Wu</b>, Rim Helaoui, Vivek Kumar, Diego Reforgiato Recupero, Daniele Riboni. Towards Detecting Need for Empathetic Response in Motivational Interviewing. In <i>Companion Publication of the 2020 International Conference on Multimodal Interaction</i>

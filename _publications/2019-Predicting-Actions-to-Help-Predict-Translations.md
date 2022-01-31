@@ -9,5 +9,3 @@ citation: '<b>Zixiu Wu</b>, Julie Ive, Josiah Wang, Pranava Madhyastha, Lucia Sp
 ---
 
 <a href='https://srvk.github.io/how2-challenge/assets/authors/1908.01665.pdf'>Download paper here</a>
-
-Recommended citation: <b>Zixiu Wu</b>, Julie Ive, Josiah Wang, Pranava Madhyastha, Lucia Specia. Predicting Actions to Help Predict Translations. In <i>The How2 Challenge (ICML 2019 Workshop)</i>

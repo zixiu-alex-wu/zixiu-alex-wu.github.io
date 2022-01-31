@@ -9,5 +9,3 @@ citation: ' <b>Zixiu Wu</b>, Rim Helaoui, Diego Reforgiato Recupero, Daniele Rib
 ---
 
 <a href='https://aclanthology.org/2021.clpsych-1.22.pdf'>Download paper here</a>
-
-Recommended citation:  <b>Zixiu Wu</b>, Rim Helaoui, Diego Reforgiato Recupero, Daniele Riboni. Towards Low-Resource Real-Time Assessment of Empathy in Counselling. In <i>Proceedings of the Seventh Workshop on Computational Linguistics and Clinical Psychology: Improving Access</i>

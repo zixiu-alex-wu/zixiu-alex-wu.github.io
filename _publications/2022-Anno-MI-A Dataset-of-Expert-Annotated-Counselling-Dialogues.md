@@ -9,5 +9,3 @@ citation: ' <b>Zixiu Wu*</b>, Simone Balloccu*, Vivek Kumar, Rim Helaoui, Ehud R
 ---
 
 <a href='https:/zixiu-alex-wu.github.io/files/anno-mi-icassp-camera-ready.pdf'>Download paper here</a>
-
-Recommended citation:  <b>Zixiu Wu*</b>, Simone Balloccu*, Vivek Kumar, Rim Helaoui, Ehud Reiter, Diego Reforgiato Recupero, Daniele Riboni. Anno-MI: A Dataset of Expert-Annotated Counselling Dialogues. In <i>IEEE International Conference on Acoustics, Speech and Signal Processing</i>

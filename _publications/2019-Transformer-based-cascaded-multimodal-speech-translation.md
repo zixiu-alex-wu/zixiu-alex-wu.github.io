@@ -9,5 +9,3 @@ citation: ' <b>Zixiu Wu</b>, Ozan Caglayan, Julia Ive, Josiah Wang, Lucia Specia
 ---
 
 <a href='https://arxiv.org/pdf/1910.13215.pdf'>Download paper here</a>
-
-Recommended citation:  <b>Zixiu Wu</b>, Ozan Caglayan, Julia Ive, Josiah Wang, Lucia Specia. Transformer-based cascaded multimodal speech translation. In <i>arXiv</i>
