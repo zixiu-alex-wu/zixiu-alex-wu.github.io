@@ -7,7 +7,7 @@ venue: 'Seventh Workshop on Computational Linguistics and Clinical Psychology: I
 paperurl: 'https://aclanthology.org/2021.clpsych-1.22.pdf'
 paperurltext: 'pdf'
 bibtex: 'https://aclanthology.org/2021.clpsych-1.22.bib'
-citation: ' <b>Zixiu Wu</b>, Rim Helaoui, Diego Reforgiato Recupero, Daniele Riboni. Towards Low-Resource Real-Time Assessment of Empathy in Counselling. In <i>Proceedings of the Seventh Workshop on Computational Linguistics and Clinical Psychology: Improving Access</i>'
+citation: ' <b>Zixiu Wu</b>, Rim Helaoui, Diego Reforgiato Recupero, Daniele Riboni. Towards Low-Resource Real-Time Assessment of Empathy in Counselling. In <i>Proceedings of the Seventh Workshop on Computational Linguistics and Clinical Psychology: Improving Access</i>, 2021.'
 ---
 
 <a href='https://aclanthology.org/2021.clpsych-1.22.pdf'>Download paper here</a>
