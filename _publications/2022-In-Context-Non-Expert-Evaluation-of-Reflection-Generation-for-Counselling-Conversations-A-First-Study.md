@@ -1,8 +1,8 @@
 ---
 title: "In-Context Non-Expert Evaluation of Reflection Generation for Counselling Conversations: A First Study"
 collection: publications
-permalink: /publication/07/09/2022-In-Context-Non-Expert-Evaluation-of-Reflection-Generation-for-Counselling-Conversations-A-First-Study
-date: 07/09/2022
+permalink: /publication/07/12/2022-In-Context-Non-Expert-Evaluation-of-Reflection-Generation-for-Counselling-Conversations-A-First-Study
+date: 07/12/2022
 venue: 'Under Review'
 paperurl: 'https://zixiu-alex-wu.github.io/publications/'
 paperurltext: 'pdf'
