@@ -3,11 +3,11 @@ title: "Towards In-Context Non-Expert Evaluation of Reflection Generation for Co
 collection: publications
 permalink: /publication/07/12/2022-Towards-In-Context-Non-Expert-Evaluation-of-Reflection-Generation-for-Counselling-Conversations
 date: 07/12/2022
-venue: 'Under Review'
-paperurl: 'https://zixiu-alex-wu.github.io/files/Towards_In_Context_Non_Expert_Evaluation_of_Reflection_Generation_for_Counselling_Conversations.pdf'
+venue: '2nd Workshop on Natural Language Generation, Evaluation, and Metrics (GEM 2022, co-located with EMNLP 2022)'
+paperurl: 'https://zixiu-alex-wu.github.io/files/Towards_In_Context_Non_Expert_Evaluation_of_Reflection_Generation_for_Counselling_Conversations__Camera_Ready.pdf'
 paperurltext: 'pdf'
-bibtex: 'https://zixiu-alex-wu.github.io/publications/'
-citation: '<b>Zixiu Wu</b>, Simone Balloccu, Rim Helaoui, Diego Reforgiato Recupero, Daniele Riboni. Towards In-Context Non-Expert Evaluation of Reflection Generation for Counselling Conversations. In <i>Under Review</i>, 2022.'
+bibtex: 'https://zixiu-alex-wu.github.io/files/gem_paper.bib'
+citation: '<b>Zixiu Wu</b>, Simone Balloccu, Rim Helaoui, Diego Reforgiato Recupero, Daniele Riboni. Towards In-Context Non-Expert Evaluation of Reflection Generation for Counselling Conversations. In <i>Proceedings of the 2nd Workshop on Natural Language Generation, Evaluation, and Metrics (GEM 2022, co-located with EMNLP 2022)</i>, 2022.'
 ---
 
-<a href='https://zixiu-alex-wu.github.io/files/Towards_In_Context_Non_Expert_Evaluation_of_Reflection_Generation_for_Counselling_Conversations.pdf'>Download paper here</a>
+<a href='https://zixiu-alex-wu.github.io/files/Towards_In_Context_Non_Expert_Evaluation_of_Reflection_Generation_for_Counselling_Conversations__Camera_Ready.pdf'>Download paper here</a>
