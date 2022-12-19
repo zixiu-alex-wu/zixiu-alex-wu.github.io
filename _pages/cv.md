@@ -8,7 +8,8 @@ redirect_from:
 ---
 
 {% include base_path %}
-See my [LinkedIn page](https://www.linkedin.com/in/zixiu-wu)
+[2-Page PDF](https://zixiu-alex-wu.github.io/files/2_Page_CV_Alex_Wu.pdf)
+[LinkedIn page](https://www.linkedin.com/in/zixiu-wu)
 
 Education
 ======
