@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 [2-Page PDF (Industry)](https://zixiu-alex-wu.github.io/files/2_Page_CV_Alex_Wu___Industry.pdf)
 
-[2-Page PDF (Academic)](https://zixiu-alex-wu.github.io/files/2_Page_CV_Alex_Wu___Academic)
+[2-Page PDF (Academic)](https://zixiu-alex-wu.github.io/files/2_Page_CV_Alex_Wu___Academic.pdf)
 
 [LinkedIn page](https://www.linkedin.com/in/zixiu-wu)
 
