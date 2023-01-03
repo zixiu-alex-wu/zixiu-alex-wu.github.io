@@ -4,10 +4,10 @@ collection: publications
 permalink: /publication/23/07/2022-Data-Augmentation-for-Reliability-and-Fairness-in-Counselling-Quality-Classification
 date: 23/07/2022
 venue: 'SDAIH 2022 : IJCAI workshop on Scarce Data in Artificial Intelligence for Healthcare'
-paperurl: 'https://zixiu-alex-wu.github.io/publications/'
+paperurl: 'https://zixiu-alex-wu.github.io/files/IJCAI_2022_workshop_paper.pdf'
 paperurltext: 'pdf'
 bibtex: 'https://zixiu-alex-wu.github.io/publications/'
 citation: 'Vivek Kumar*, Simone Balloccu*, <b>Zixiu Wu</b>, Ehud Reiter, Rim Helaoui, Diego Reforgiato Recupero, Daniele Riboni. Data Augmentation for Reliability and Fairness in Counselling Quality Classification. In <i>IJCAI workshop on Scarce Data in Artificial Intelligence for Healthcare</i>, 2022.'
 ---
 
-<a href='https://zixiu-alex-wu.github.io/publications/'>Download paper here</a>
+<a href='https://zixiu-alex-wu.github.io/files/IJCAI_2022_workshop_paper.pdf'>Download paper here</a>
